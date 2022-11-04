@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../qrChallange"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ram",
+		"liveServer.settings.port": 5501
+	}
+}
